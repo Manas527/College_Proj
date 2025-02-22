@@ -1,7 +1,8 @@
 # THIS IS README FILE FOR COLLEGE PROJECT 
 
 ## TASK1
-
+|Field | Info |
+|------|--------|
 | Name | Manas Gupta        |
 | Enrollment no.      | DE22384          |
 | Email | 22btc032@ietdavv.edu.in      |
